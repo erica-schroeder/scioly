@@ -134,6 +134,19 @@ export const manifest = {
                     },
                 }
             },
+            "orders-families": {
+                displayName: "Orders & Families",
+                sets: {
+                    "odonata": {
+                        displayName: "Odonata",
+                        load: () => import("./entomology/orders-families/odonata"),
+                    },
+                    "orthoptera": {
+                        displayName: "Orthoptera",
+                        load: () => import("./entomology/orders-families/orthoptera"),
+                    },
+                }
+            },
         },
     },
     "potions-poisons-b": {
