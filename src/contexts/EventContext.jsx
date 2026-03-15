@@ -1,4 +1,4 @@
-import { useEvents } from '@/api/hooks/useEvents';
+import { useEvents } from '@/hooks/useEvents';
 import { createContext, useContext, useEffect, useState } from 'react';
 
 const EventContext = createContext(null);

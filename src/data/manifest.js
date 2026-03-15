@@ -10,10 +10,10 @@ export const manifest = {
                         displayName: "Arachnida",
                         load: () => import("./amazing-arthropods/classes/arachnida"),
                     },
-                    "branchiopoda": {
-                        displayName: "Branchiopoda",
-                        load: () => import("./amazing-arthropods/classes/branchiopoda"),
-                    },
+//                    "branchiopoda": {
+//                        displayName: "Branchiopoda",
+//                        load: () => import("./amazing-arthropods/classes/branchiopoda"),
+//                    },
                     "chilopoda": {
                         displayName: "Chilopoda",
                         load: () => import("./amazing-arthropods/classes/chilopoda"),
@@ -35,10 +35,10 @@ export const manifest = {
             "orders": {
                 displayName: "Insect Orders",
                 sets: {
-                    "blattodea": {
-                        displayName: "Blattodea",
-                        load: () => import("./amazing-arthropods/orders/blattodea"),
-                    },
+//                    "blattodea": {
+//                        displayName: "Blattodea",
+//                        load: () => import("./amazing-arthropods/orders/blattodea"),
+//                    },
                     "coleoptera": {
                         displayName: "Coleoptera",
                         load: () => import("./amazing-arthropods/orders/coleoptera"),
@@ -102,22 +102,22 @@ export const manifest = {
                     },
                 }
             },
-            "2025-species": {
-                displayName: "2025 Species",
+            "2026-species": {
+                displayName: "2026 Species",
                 sets: {
                     "general-questions": {
                         displayName: "General Questions",
-                        load: () => import("./amazing-arthropods/2025-species/general-questions"),
+                        load: () => import("./amazing-arthropods/2026-species/general-questions"),
                     },
                     "identification": {
                         displayName: "Identification",
-                        load: () => import("./amazing-arthropods/2025-species/identification"),
+                        load: () => import("./amazing-arthropods/2026-species/identification"),
                     }
                 },
             },
         }
     },
-    "entomology": {
+    "entomology-b": {
         displayName: "Entomology B",
         level: "Middle",
         groups: {
@@ -136,10 +136,36 @@ export const manifest = {
             },
         },
     },
-    "potions-poisons": {
+    "potions-poisons-b": {
         displayName: "Potions and Poisons B",
         level: "Middle",
         groups: {
+            "potions": {
+                displayName: "Potions",
+                sets: {
+                    "week1-2": {
+                        displayName: "Week 1 & 2",
+                        load: () => import("./potions-poisons/potions/week1-2"),
+                    },
+                    "week3": {
+                        displayName: "Week 3",
+                        load: () => import("./potions-poisons/potions/week3"),
+                    },
+                }
+            },
+            "poisons": {
+                displayName: "Poisons",
+                sets: {
+                    "animal": {
+                        displayName: "Animal Toxins",
+                        load: () => import("./potions-poisons/2026-poisons/animal"),
+                    },
+                    "plant": {
+                        displayName: "Plant Toxins",
+                        load: () => import("./potions-poisons/2026-poisons/plant"),
+                    },
+                }
+            },
         },
     },
 };

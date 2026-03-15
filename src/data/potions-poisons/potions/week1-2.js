@@ -24,5 +24,5 @@ export default [
 	  { question: "Force holding atoms together.", answer: "Bond" },
 	  { question: "The number in front of a formula showing how many molecules.", answer: "Coefficient" },
 	  { question: "The small number showing atoms in a molecule.", answer: "Subscript" },
-	  { question: "An equation with equal numbers of each atom on both sides.", answer: "Balanced Equation" }
+	  { question: "An equation with equal numbers of each atom on both sides.", answer: "Balanced Equation" },
 ]

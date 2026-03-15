@@ -1,4 +1,4 @@
-import { useFlashcards } from '@/api/hooks/useFlashcards';
+import { useFlashcards } from '@/hooks/useFlashcards';
 import { shuffle } from 'lodash-es';
 import { createContext, useContext, useEffect, useState } from 'react';
 
