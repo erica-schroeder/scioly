@@ -6,27 +6,27 @@ export const manifest = {
             "classes": {
                 displayName: "Arthropod Classes",
                 sets: {
-                    "arachnida": {
+                    "aa-arachnida": {
                         displayName: "Arachnida",
                         load: () => import("./amazing-arthropods/classes/arachnida"),
                     },
-//                    "branchiopoda": {
+//                    "aa-branchiopoda": {
 //                        displayName: "Branchiopoda",
 //                        load: () => import("./amazing-arthropods/classes/branchiopoda"),
 //                    },
-                    "chilopoda": {
+                    "aa-chilopoda": {
                         displayName: "Chilopoda",
                         load: () => import("./amazing-arthropods/classes/chilopoda"),
                     },
-                    "diplopoda": {
+                    "aa-diplopoda": {
                         displayName: "Diplopoda",
                         load: () => import("./amazing-arthropods/classes/diplopoda"),
                     },
-                    "insecta": {
+                    "aa-insecta": {
                         displayName: "Insecta",
                         load: () => import("./amazing-arthropods/classes/insecta"),
                     },
-                    "malacostraca": {
+                    "aa-malacostraca": {
                         displayName: "Malacostracta",
                         load: () => import("./amazing-arthropods/classes/malacostraca"),
                     },
@@ -35,55 +35,55 @@ export const manifest = {
             "orders": {
                 displayName: "Insect Orders",
                 sets: {
-//                    "blattodea": {
+//                    "aa-blattodea": {
 //                        displayName: "Blattodea",
 //                        load: () => import("./amazing-arthropods/orders/blattodea"),
 //                    },
-                    "coleoptera": {
+                    "aa-coleoptera": {
                         displayName: "Coleoptera",
                         load: () => import("./amazing-arthropods/orders/coleoptera"),
                     },
-                    "diptera": {
+                    "aa-diptera": {
                         displayName: "Diptera",
                         load: () => import("./amazing-arthropods/orders/diptera"),
                     },
-                    "ephemeroptera": {
+                    "aa-ephemeroptera": {
                         displayName: "Ephemeroptera",
                         load: () => import("./amazing-arthropods/orders/ephemeroptera"),
                     },
-                    "hemiptera": {
+                    "aa-hemiptera": {
                         displayName: "Hemiptera",
                         load: () => import("./amazing-arthropods/orders/hemiptera"),
                     },
-                    "hymenoptera": {
+                    "aa-hymenoptera": {
                         displayName: "Hymenoptera",
                         load: () => import("./amazing-arthropods/orders/hymenoptera"),
                     },
-                    "lepidoptera": {
+                    "aa-lepidoptera": {
                         displayName: "Lepidoptera",
                         load: () => import("./amazing-arthropods/orders/lepidoptera"),
                     },
-                    "mantodea": {
+                    "aa-mantodea": {
                         displayName: "Mantodea",
                         load: () => import("./amazing-arthropods/orders/mantodea"),
                     },
-                    "megaloptera": {
+                    "aa-megaloptera": {
                         displayName: "Megaloptera",
                         load: () => import("./amazing-arthropods/orders/megaloptera"),
                     },
-                    "neuroptera": {
+                    "aa-neuroptera": {
                         displayName: "Neuroptera",
                         load: () => import("./amazing-arthropods/orders/neuroptera"),
                     },
-                    "odonata": {
+                    "aa-odonata": {
                         displayName: "Odonata",
                         load: () => import("./amazing-arthropods/orders/odonata"),
                     },
-                    "orthoptera": {
+                    "aa-orthoptera": {
                         displayName: "Orthoptera",
                         load: () => import("./amazing-arthropods/orders/orthoptera"),
                     },
-                    "trichoptera": {
+                    "aa-trichoptera": {
                         displayName: "Trichoptera",
                         load: () => import("./amazing-arthropods/orders/trichoptera"),
                     },
@@ -137,13 +137,29 @@ export const manifest = {
             "orders-families": {
                 displayName: "Orders & Families",
                 sets: {
-                    "odonata": {
+                    "entb-blattodea": {
+                        displayName: "Blattodea",
+                        load: () => import("./entomology/orders-families/blattodea"),
+                    },
+                    "entb-coleoptera": {
+                        displayName: "Coleoptera",
+                        load: () => import("./entomology/orders-families/coleoptera"),
+                    },
+                    "entb-odonata": {
                         displayName: "Odonata",
                         load: () => import("./entomology/orders-families/odonata"),
                     },
-                    "orthoptera": {
+                    "entb-orthoptera": {
                         displayName: "Orthoptera",
                         load: () => import("./entomology/orders-families/orthoptera"),
+                    },
+                    "entb-neuroptera": {
+                        displayName: "Neuroptera",
+                        load: () => import("./entomology/orders-families/neuroptera"),
+                    },
+                    "entb-other": {
+                        displayName: "Other Orders",
+                        load: () => import("./entomology/orders-families/other"),
                     },
                 }
             },

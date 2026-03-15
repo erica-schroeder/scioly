@@ -1,6 +1,6 @@
 export default [{
     question: "What order/family is this insect in?",
-    answer: "Odonata\nAeshnidae (darners)\n\n-Chunky\n-long body",
+    answer: "Odonata\nAeshnidae (darners)\n\n-Chunky\n-Long body",
     image: "aeshnidae-immature.png"
 },{
     question: "What order/family is this insect in?",
