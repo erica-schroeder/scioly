@@ -2,7 +2,7 @@ const e=[{question:"What order/family is this insect in?",answer:`Odonata
 Aeshnidae (darners)
 
 -Chunky
--long body`,image:"aeshnidae-immature.png"},{question:"What order/family is this insect in?",answer:`Odonata
+-Long body`,image:"aeshnidae-immature.png"},{question:"What order/family is this insect in?",answer:`Odonata
 Aeshnidae (darners)
 
 -Large
