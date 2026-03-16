@@ -22,7 +22,7 @@ export const Flashcard = ({ frontText, frontImageUrl, backText }) => {
         >
           <FlashcardContent header='Question'>
             <Stack spacing={3} justifyContent='center' sx={{ mt: -2, flex: 1 }}>
-              {frontImageUrl && <img src={frontImageUrl} alt='' />}
+              {frontImageUrl && <img src={frontImageUrl} alt='' style={{ maxHeight: "375px", objectFit: "contain" }} />}
 
               <Typography textAlign='center' whiteSpace='pre-wrap'>
                 {frontText}

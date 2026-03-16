@@ -32,7 +32,7 @@ export default [{
     image: "water-penny-beetle.jpg"
 },{
     question: "What order/family is this insect in?",
-    answer: "Coleoptera\nElmidae (riffle beetles)\n\nThis is the larva",
+    answer: "Coleoptera\nElmidae (riffle beetles)\n\n-Aquatic\n-Breathing chamber in last abdominal segment",
     image: "elmidae-immature.jpg"
 },{
     question: "What order/family is this insect in?",
