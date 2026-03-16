@@ -26,7 +26,8 @@ This is the larva`,image:"water-penny-beetle-immature.jpg"},{question:"What orde
 Psephenidae (water penny beetles)`,image:"water-penny-beetle.jpg"},{question:"What order/family is this insect in?",answer:`Coleoptera
 Elmidae (riffle beetles)
 
-This is the larva`,image:"elmidae-immature.jpg"},{question:"What order/family is this insect in?",answer:`Coleoptera
+-Aquatic
+-Breathing chamber in last abdominal segment`,image:"elmidae-immature.jpg"},{question:"What order/family is this insect in?",answer:`Coleoptera
 Elmidae (riffle beetles)`,image:"elmidae.jpg"},{question:"What order/family is this insect in?",answer:`Coleoptera
 Histeridae (hister beetles)
 
