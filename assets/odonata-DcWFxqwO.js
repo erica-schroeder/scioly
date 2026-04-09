@@ -27,4 +27,11 @@ Libellulidae (skimmers)
 Lestidae (spread-wing damselflies)
 
 -Wings open at rest
--Less brightly colored`,image:"lestidae.jpg"}];export{e as default};
+-Less brightly colored`,image:"lestidae.jpg"},{question:"What order/family is this insect in?",answer:`Odonata
+Gomphidae (clubtails)
+
+-Tail looks like a club`,image:"clubtail.jpg"},{question:"What order/family is this insect in?",answer:`Odonata
+Gomphidae (clubtails)
+
+-Flat and chunky
+-Thick legs for digging`,image:"clubtail-immature.jpg"}];export{e as default};

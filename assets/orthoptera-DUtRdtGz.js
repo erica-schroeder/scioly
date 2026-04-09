@@ -17,4 +17,5 @@ Gryllidae (crickets & tree crickets)
 -Regular cricket`,image:"cricket.jpg"},{question:"What order/family is this insect in?",answer:`Orthoptera
 Raphiphoridae (camel crickets)
 
--Back is humped like a camel`,image:"raphidophoridae.jpg"}];export{e as default};
+-Back is humped like a camel`,image:"raphidophoridae.jpg"},{question:"What order/family is this insect in?",answer:`Orthoptera
+Tetrigidae (pygmy grasshoppers)`,image:"tetrigidae.jpg"}];export{e as default};
