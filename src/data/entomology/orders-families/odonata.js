@@ -26,4 +26,12 @@ export default [{
     question: "What order/family is this insect in?",
     answer: "Odonata\nLestidae (spread-wing damselflies)\n\n-Wings open at rest\n-Less brightly colored",
     image: "lestidae.jpg"
+},{
+    question: "What order/family is this insect in?",
+    answer: "Odonata\nGomphidae (clubtails)\n\n-Tail looks like a club",
+    image: "clubtail.jpg"
+},{
+    question: "What order/family is this insect in?",
+    answer: "Odonata\nGomphidae (clubtails)\n\n-Flat and chunky\n-Thick legs for digging",
+    image: "clubtail-immature.jpg"
 }];

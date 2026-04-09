@@ -5,9 +5,9 @@ export default [{
 },{
     question: "What order/family is this insect in?",
     answer: "Neuroptera\nMyrmeleontidae (antlions)",
-    image: "antion-immature.jpg"
+    image: "antlion-immature.jpg"
 },{
     question: "What order/family is this insect in?",
     answer: "Neuroptera\nMyrmeleontidae (antlions)",
-    image: "antion.jpg"
+    image: "antlion.jpg"
 }];

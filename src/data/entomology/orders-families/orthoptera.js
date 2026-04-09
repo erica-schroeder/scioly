@@ -5,7 +5,7 @@ export default [{
 },{
     question: "What order/family is this insect in?",
     answer: "Orthoptera\nGryllotalpidae (mole crickets)\n\n-Fossorial legs for digging",
-    image: "raphidophoridae.jpg"
+    image: "gryllotalpidae.jpg"
 },{
     question: "What order/family is this insect in?",
     answer: "Orthoptera\nGryllidae (crickets & tree crickets)\n\n-Tree cricket",
@@ -21,5 +21,9 @@ export default [{
 },{
     question: "What order/family is this insect in?",
     answer: "Orthoptera\nRaphiphoridae (camel crickets)\n\n-Back is humped like a camel",
-    image: "raphiphoridae.jpg"
+    image: "raphidophoridae.jpg"
+},{
+    question: "What order/family is this insect in?",
+    answer: "Orthoptera\nTetrigidae (pygmy grasshoppers)",
+    image: "tetrigidae.jpg"
 }];

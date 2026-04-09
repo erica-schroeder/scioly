@@ -145,6 +145,10 @@ export const manifest = {
                         displayName: "Coleoptera",
                         load: () => import("./entomology/orders-families/coleoptera"),
                     },
+                    "entb-hymenoptera": {
+                        displayName: "Hymenoptera",
+                        load: () => import("./entomology/orders-families/hymenoptera"),
+                    },
                     "entb-lepidoptera": {
                         displayName: "Lepidoptera",
                         load: () => import("./entomology/orders-families/lepidoptera"),
