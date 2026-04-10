@@ -188,6 +188,10 @@ export const manifest = {
                         displayName: "Week 3",
                         load: () => import("./potions-poisons/potions/week3"),
                     },
+                    "polarity": {
+                        displayName: "Polarity",
+                        load: () => import("./potions-poisons/potions/polarity"),
+                    },
                 }
             },
             "poisons": {
