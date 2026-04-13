@@ -20,6 +20,114 @@ export default [{
     image: "banded-garden-spider.jpg"
 }, {
     question: "Which species built this web?",
-    answer: "Black and yellow garden spider",
+    answer: "Banded garden spider",
     image: "black-yellow-garden-spider-web.jpg"
+}, {
+    question: "What is this species?",
+    answer: "American dagger moth",
+    image: "american-dagger-moth.jpg"
+}, {
+    question: "What is this species?",
+    answer: "American dagger moth",
+    image: "american-dagger-moth-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Cabbage white",
+    image: "cabbage-white.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Cabbage white",
+    image: "cabbage-white-larvae.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Case-bearing clothes moth",
+    image: "case-bearing-clothes-moth.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Case-bearing clothes moth",
+    image: "case-bearing-clothes-moth-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Eastern giant swallowtail",
+    image: "eastern-giant-swallowtail.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Eastern giant swallowtail",
+    image: "eastern-giant-swallowtail-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Isabella tiger moth",
+    image: "isabella-tiger-moth.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Isabella tiger moth (also called a woolly bear!)",
+    image: "isabella-tiger-moth-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Mitchell's satyr",
+    image: "mitchells-satyr.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Mitchell's satyr",
+    image: "mitchells-satyr-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Pandorus sphinx moth",
+    image: "pandorus-sphinx-moth.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Pandorus sphinx moth",
+    image: "pandorus-sphinx-moth-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Polyphemus moth",
+    image: "polyphemus-moth.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Polyphemus moth",
+    image: "polyphemus-moth-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Silver spotted skipper",
+    image: "silver-spotted-skipper.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Silver spotted skipper",
+    image: "silver-spotted-skipper-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Unicorn prominent moth",
+    image: "unicorn-prominent-moth.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Unicorn prominent moth",
+    image: "unicorn-prominent-moth-larva.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Viceroy",
+    image: "viceroy.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Viceroy",
+    image: "viceroy-larva.jpg"
+}, {
+    question: "What is this species?\nIs it male or female?",
+    answer: "Lone star tick\nFemale (white spot on back)",
+    image: "lone-star-tick-female.jpg"
+}, {
+    question: "What is this species?\nIs it male or female?",
+    answer: "Lone star tick\nMale (no spot on back)",
+    image: "lone-star-tick-male.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Common pill bug",
+    image: "common-pill-bug.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Common rough woodlouse",
+    image: "common-rough-woodlouse.jpg"
+}, {
+    question: "What is this species?",
+    answer: "Tiger scud",
+    image: "tiger-scud.jpg"
 }];
