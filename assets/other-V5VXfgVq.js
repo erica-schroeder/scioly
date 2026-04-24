@@ -10,4 +10,6 @@ Diapheromeridae (common walkingsticks)`,image:"phasmatodea.jpg"},{question:"What
 -Rooflike wings`,image:"psocodea.jpg"},{question:"What order family is this insect in?",answer:"Siphonaptera (fleas)",image:"siphonaptera.jpg"},{question:"What order family is this insect in?",answer:`Raphidioptera
 Raphidiidae (snakeflies)
 
--Long neck`,image:"raphidioptera.jpg"}];export{e as default};
+-Long neck`,image:"raphidioptera.jpg"},{question:"What order family is this insect in?",answer:`Mecoptera
+Boreidae (snow scorpionflies)`,image:"boreidae.jpg"},{question:"What order family is this insect in?",answer:`Mecoptera
+Panorpidae (common scorpionflies)`,image:"panorpidae.jpg"}];export{e as default};
