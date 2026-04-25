@@ -22,4 +22,12 @@ export default [{
     question: "What order family is this insect in?",
     answer: "Raphidioptera\nRaphidiidae (snakeflies)\n\n-Long neck",
     image: "raphidioptera.jpg"
+},{
+    question: "What order family is this insect in?",
+    answer: "Mecoptera\nBoreidae (snow scorpionflies)",
+    image: "boreidae.jpg"
+},{
+    question: "What order family is this insect in?",
+    answer: "Mecoptera\nPanorpidae (common scorpionflies)",
+    image: "panorpidae.jpg"
 }];
